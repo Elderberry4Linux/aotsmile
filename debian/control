@@ -1,0 +1,13 @@
+Source: aotsmile
+Section: admin
+Priority: optional
+Maintainer: Sam <elderberry4Linux@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: aotsmile
+Architecture: all
+Depends: python3 (>= 3.3),
+         python-pygame,
+         ${misc:Depends}
+Description: Adventure Of The Smile is an Arcade Smiley Shooter

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Exec=aotsmile
+Icon=aotsmile
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=game;
+NotShowIn=KDE;
+StartupNotify=false
+Name=Adventure Of The Smile
+Comment=Arcade Smiley Shooter
+Name[en_US]=Adventure Of The Smile
