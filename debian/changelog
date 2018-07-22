@@ -1,2 +1,5 @@
-aotsmile (0.1) smile; urgency=low
-  * Changes: Moved files for making deb
+aotsmile (0.1) tara; urgency=high
+
+  * Setup: Setup for deb
+
+ -- Clement Lefebvre <elderberry4Linux@gmail.com>

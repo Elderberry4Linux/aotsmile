@@ -8,6 +8,6 @@ Standards-Version: 3.9.5
 Package: aotsmile
 Architecture: all
 Depends: python3 (>= 3.3),
-         python-pygame,
+         python-pygame
          ${misc:Depends}
-Description: Adventure Of The Smile is an Arcade Smiley Shooter
+Description: Adventure Of The Smile is an Arcade Smiley Shooter!
